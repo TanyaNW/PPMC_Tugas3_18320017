@@ -38,7 +38,7 @@ main()
     char *arrayJPG[] = {"FF", "D8", "FF", "E1"};
 
     // membuka file dan membacanya
-    filenya = fopen("text.txt", "r");
+    filenya = fopen("file.xxx", "r");
 
     // memastikan file tidak kosong
     if (filenya = NULL)
